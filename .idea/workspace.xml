@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b9eb36f-98b3-40b9-9d10-a9a46bd91470" name="Default Changelist" comment="" />
+    <list default="true" id="6b9eb36f-98b3-40b9-9d10-a9a46bd91470" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdamEva/AdamEva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdamEva/Apple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdamEva/Human.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catrat/Cat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catrat/CatRat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catrat/Rat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.codegym/CatRat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.codegym/Date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.codegym/battery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.codegym/battery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.codegym/lamp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.codegym/rectangle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,15 +26,25 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gcwQwdTVFsL9SEof46KrETELla" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\demooop\com.codegym" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,10 +69,25 @@
       <option name="presentableId" value="Default" />
       <updated>1598427175916</updated>
       <workItem from="1598427177433" duration="2528000" />
+      <workItem from="1598432141059" duration="1220000" />
+      <workItem from="1598503241948" duration="5738000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
